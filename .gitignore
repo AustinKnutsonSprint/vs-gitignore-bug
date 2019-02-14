@@ -1,0 +1,4 @@
+sub/build
+sub/.vs
+ubuntu*console.log
+.vagrant
